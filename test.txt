@@ -1,0 +1,6 @@
+Hello there! 
+How are you doing? 
+Let's enjoy the day!
+We are learning dev ops
+
+
